@@ -1,1 +1,7 @@
-# QANS_oTree_Survey
+# Testing oTree survey for QANS
+
+## to run locally
+
+```console
+otree devserver
+```
